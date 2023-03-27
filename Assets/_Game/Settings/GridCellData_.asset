@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a43d6d323cdddd4d94b7b28296368cd, type: 3}
+  m_Name: GridCellData_
+  m_EditorClassIdentifier: 
+  completedHighlightDelaySeconds: 0.1
+  completedHighlightDurationSeconds: 0.25
+  correctHighlightDurationSeconds: 0.25
+  incorrectHighlightDurationSeconds: 0.25
+  completedPunchScale: {x: 0.2, y: 0.2, z: 0}
+  correctPunchScale: {x: 0.15, y: 0.15, z: 0}
+  completedPunchVibrato: 3
+  correctPunchVibrato: 3
+  incorrectShakeStrenght: 0.1
+  incorrectShakeVibrato: 25
+  completedHighLightColor: {r: 1, g: 0.5019608, b: 0, a: 1}
+  correctHighLightColor: {r: 1, g: 0.5019608, b: 0, a: 1}
+  incorrectHighLightColor: {r: 0.6, g: 0, b: 0, a: 1}
+  completedHighlightEase: 31
+  correctHighlightEase: 31
+  incorrectHighlightEase: 31
+  defaultNumberMaterial: {fileID: 2100000, guid: 29cb5a2ff02da954885aac38650630cf,
+    type: 2}
+  correctNumberMaterial: {fileID: 2100000, guid: 898376ac50aa7974e867abf21ef3294c,
+    type: 2}
+  incorrectNumberMaterial: {fileID: 2100000, guid: 2f297c3552b4b6a48886c7c8f0d260e6,
+    type: 2}
+  correctCellBgMaterial: {fileID: 2100000, guid: 132a5857045ca724c95542fd52105c07,
+    type: 2}
+  incorrectCellBgMaterial: {fileID: 2100000, guid: bb2795b6257573341b6e242f867ac5cf,
+    type: 2}

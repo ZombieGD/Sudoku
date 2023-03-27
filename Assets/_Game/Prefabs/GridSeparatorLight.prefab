@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5829181797814022157
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2866222887322932729, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_Name
+      value: GridSeparatorLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932729, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932730, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932730, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932730, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932730, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9564a41e0ddd98d4e88d12b8619409a9, type: 2}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866222887322932731, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6907708035407720217, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: separatorData
+      value: 
+      objectReference: {fileID: 11400000, guid: 2bc2d0569867dd4439184daea2560be7,
+        type: 2}
+    - target: {fileID: 6907708035407720217, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: defaultMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 9564a41e0ddd98d4e88d12b8619409a9, type: 2}
+    - target: {fileID: 6907708035407720217, guid: 184ff048b65f69e4ca198870675da600,
+        type: 3}
+      propertyPath: highlightedMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 6e2cc1961e1900241881ec041de1a185, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 184ff048b65f69e4ca198870675da600, type: 3}
